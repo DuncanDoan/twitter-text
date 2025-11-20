@@ -3,7 +3,7 @@
 # http://www.apache.org/licenses/LICENSE-2.0
 
 # encoding: utf-8
-require 'idn'
+require 'idnx'
 
 class String
   # Helper function to count the character length by first converting to an
